@@ -3,7 +3,8 @@
  Containing some of the best clients all in one place!
 
 
-<img src=".github/assets/launcher.png" alt="Launcher Photo"><br>
+<img width="946" height="490" alt="Screenshot 2026-07-15 8 24 41 AM" src="https://github.com/user-attachments/assets/42334251-b3bf-4518-8af1-a65230d7657b" />
+
 
 <hr>
 
@@ -46,4 +47,4 @@
 
 <hr>
 
->__Finally [here](https://irv77.github.io/AmplerLauncher/) is the live version of the code!__
+>__Click [here](https://2014090-cpu.github.io/AmplerLauncher2.0/) to See the Ampler Launcher 2.0
